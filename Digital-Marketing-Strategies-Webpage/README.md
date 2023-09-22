@@ -14,9 +14,9 @@
 
 The "Digital Marketing Strategies Overview" web application was developed to provide users with knowledge of key digital marketing strategies. Understanding these strategies is crucial as the digital world is constantly evolving. This application offers insights into Search Engine Optimization (SEO), Online Reputation Management, and Social Media Marketing.
 
-The goal of this project was to create an informative and easy to use resource, helping users quickly understand each strategy's essentials. In today's digital age, a robust online presence can significantly impact a business. Through this application, users will be able to gain the knowledge they need to excel online.
+The goal of this project was to create an informative and easy-to-use resource, helping users quickly understand each strategy's essentials. In today's digital age, a robust online presence can significantly impact a business. Through this application, users will be able to gain the knowledge they need to excel online.
 
-![Site Landing Page Image](path_to_image_here)
+![Site Landing Page Image](Develop/assets/images/Webpage%20snip.PNG)
 
 ## Table of Contents
 - [Code Refactor Example](#code-refactor-example)
@@ -41,11 +41,15 @@ Transformed into:
     ...
 </header>
 
-This modification necessitated updates in the CSS. From:
+This change required me to put the following updates in the CSS. From:
 
 .header {...}
+
 To:
+
 header {...}
+
+```
 
 ## Usage
 
@@ -62,8 +66,17 @@ Developing this application was not just about coding but about understanding th
 ## Author Info
 
 **Thomas Er**
-- Portfolio: [Link to your portfolio here]
-- [LinkedIn](#)
-- [Github](#)
+- [LinkedIn](www.linkedin.com/in/thomas-er-9b77321b9)
+- [Github](https://github.com/nba251522)
 
 ## Credits
+
+This project would not be possible without the following guides and tutorials:
+
+- [Super Simple Dev - YouTube](https://www.youtube.com/watch?v=G3e-cpL7ofc&t=1188s&ab_channel=SuperSimpleDev)
+- [W3Schools - CSS Tutorial](https://www.w3schools.com/css/default.asp)
+- [W3Schools - HTML Tutorial](https://www.w3schools.com/html/default.asp)
+
+## License
+
+This project is under the terms of the MIT License.
