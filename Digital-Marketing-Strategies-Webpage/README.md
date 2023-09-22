@@ -16,7 +16,7 @@ The "Digital Marketing Strategies Overview" web application was developed to pro
 
 The goal of this project was to create an informative and easy-to-use resource, helping users quickly understand each strategy's essentials. In today's digital age, a robust online presence can significantly impact a business. Through this application, users will be able to gain the knowledge they need to excel online.
 
-![Site Landing Page Image](Digital-Marketing-Strategies-Webpage/Develop/assets/images/Webpage%20snip.PNG)
+![Site Landing Page Image](Develop/assets/images/Webpage%20snip.PNG)
 
 ## Table of Contents
 - [Code Refactor Example](#code-refactor-example)
