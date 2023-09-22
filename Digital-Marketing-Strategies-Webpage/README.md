@@ -62,8 +62,7 @@ Developing this application was not just about coding but about understanding th
 ## Author Info
 
 **Thomas Er**
-- Portfolio: [Link to your portfolio here]
-- [LinkedIn](#)
-- [Github](#)
+- [LinkedIn](www.linkedin.com/in/thomas-er-9b77321b9)
+- [Github](https://github.com/nba251522)
 
 ## Credits
